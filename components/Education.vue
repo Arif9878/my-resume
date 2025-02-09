@@ -6,7 +6,7 @@
           <h3 class="font-bold">Teknik Informatika - Universitas Nusantara PGRI Kediri</h3>
           <p class="text-sm text-gray-600">2013 - 2017</p>
           <p class="mt-2">
-            Fokus pada pengembangan perangkat lunak dan sistem informasi.
+            Focus on software development and information systems.
           </p>
         </li>
       </ul>

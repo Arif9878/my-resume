@@ -19,8 +19,8 @@ const jobs = [
     title: "Backend Developer",
     duration: "November 2021 - Sekarang",
     tasks: [
-      "Riset teknologi terbaru untuk pengembangan proyek di Stockbit.",
-      "Merancang & mengembangkan sistem backend untuk layanan keuangan."
+      "Conducting research on the latest technology for project development at Stockbit.",
+      "Designing and developing backend systems for financial services."
     ]
   },
   {
@@ -28,8 +28,29 @@ const jobs = [
     title: "Frontend Developer",
     duration: "September 2019 - Oktober 2021",
     tasks: [
-      "Mengembangkan antarmuka web untuk layanan publik berbasis Vue.js.",
-      "Menerapkan integrasi API untuk sistem pelaporan digital."
+      "Research on the latest technology that can be applied to projects running",
+      "Developing web interfaces for public services using Vue.js.",
+      "Implementing API integration for digital reporting systems."
+    ]
+  },
+  {
+    company: "PT. Quantus Telematika Indonesia",
+    title: "Software Engineer",
+    duration: "May 2018 - September 2019",
+    tasks: [
+      "Research on the latest technology that can be applied to projects running by PT. Quantus Telematika Indonesia.",
+      "Plan and design the system used in projects running by PT. Quantus Telematika Indonesia",
+      "Develop system used in projects running by PT. Quantus Telematika Indonesia"
+    ]
+  },
+  {
+    company: "CV. ADISATYA IT CONSULTANT",
+    title: "Software Engineer",
+    duration: "June 2016 – May 2018",
+    tasks: [
+      "Research on the latest technology that can be applied to projects running by CV Adisatya IT Consultant.",
+      "Plan and design the system used in projects running by CV Adisatya IT Consultant",
+      "Develop system used in projects running by CV Adisatya IT Consultant"
     ]
   }
 ];
