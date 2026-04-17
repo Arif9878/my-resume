@@ -1,16 +1,26 @@
 <template>
-  <div class="min-h-screen bg-gray-100 text-gray-900">
+  <div class="min-h-screen bg-slate-100 text-slate-900">
     <Header />
-    <About />
-    <Experience />
-    <Education />
-		<Portfolio />
-    <Skills />
+
+    <main class="pb-10">
+      <About />
+      <Experience />
+      <Education />
+      <Portfolio />
+      <Skills />
+    </main>
+
     <Contact />
   </div>
 </template>
 
 <script setup>
+useSeoMeta({
+  title: 'Arif Wicaksono | Software Engineer',
+  description:
+    'Software engineer resume highlighting backend engineering, modern web development, and selected projects on GitHub.',
+});
+
 import Header from '~/components/Header.vue';
 import About from '~/components/About.vue';
 import Experience from '~/components/Experience.vue';
