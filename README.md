@@ -56,6 +56,12 @@ yarn build
 bun run build
 ```
 
+To enable Cloudflare Web Analytics, set a public runtime token before building or starting the app:
+
+```bash
+NUXT_PUBLIC_CLOUDFLARE_ANALYTICS_TOKEN=your-token
+```
+
 Locally preview production build:
 
 ```bash
